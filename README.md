@@ -1,2 +1,2 @@
-# memes
-Memes using HTML
+# Memes
+Memes using HTML, CSS, and JavaScript
